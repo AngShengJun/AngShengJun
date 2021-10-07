@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<br />
 <div align="left">
   <a href="https://www.linkedin.com/in/shengjunang/">
       <img
@@ -7,6 +7,10 @@
         alt="LinkedIn"
       />
     </a>
+<br />
+  
+  
+  
 <!--
 **AngShengJun/AngShengJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
