@@ -116,7 +116,7 @@ Metrics and approaches towards mitigating multi-collinearity for Linear Regressi
 
 <!-- FEATURED PROJECTS Section Ends -->
 
-
+![Metrics](https://github.com/AngShengJun/AngShengJun/blob/main/github-metrics.svg)
   
 <!--
 **AngShengJun/AngShengJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
