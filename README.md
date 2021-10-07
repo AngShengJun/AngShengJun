@@ -1,5 +1,5 @@
 ### Hi there 👋
-<br />
+
 <div align="left">
   <a href="https://www.linkedin.com/in/shengjunang/">
       <img
@@ -7,9 +7,18 @@
         alt="LinkedIn"
       />
     </a>
+</div>
+
 <br />
-  
-  
+
+## I am ShengJun Ang
+
+- Mechanical engineer by training with ~13 years of progressive experience in project management and data analytics
+- Pursuing my interest in business analytics and data science; shifted into analytics consultancy and am currently enrolled in the BCG-RISE programme
+- Curious and likes experimentation; the pet project section is dedicated for mini side projects
+- Loves matcha
+
+![Metrics](https://raw.githubusercontent.com/AngShengJun/AngShengJun/github-metrics/github-metrics.svg)
   
 <!--
 **AngShengJun/AngShengJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
