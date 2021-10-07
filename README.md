@@ -7,6 +7,9 @@
         alt="LinkedIn"
       />
     </a>
+  <a href="https://app.daily.dev/ShengJun">
+    <img src="https://api.daily.dev/devcards/8cf0ce3c331e4acab14d98f3ccbf12ea.png?r=x81" width="400" alt="AngShengJun's Dev Card"/>
+  </a>
 </div>
 
 <br />
