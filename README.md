@@ -33,14 +33,14 @@
 <!-- FEATURED PROJECTS Section Starts -->
 
 <!-- Add your details -->
-### End-to-end Data Science Projects <br>
+## End-to-end Data Science Projects <br>
 [OCBC HACK-it](#OCBC-HACK-it) <br>
 [IBM DS Capstone](#IBM-DS-Capstone)<br>
 [Terror activity classifier](#Terror-activity-classifier) <br>
 [WNV classifier](#WNV-classifier)<br>
 [Web scrapping and NLP](#Web-scrapping-and-NLP)<br>
 
-### Pet Projects
+## Pet Projects <br>
 [Data Viz using Matplotlib and Seaborn](#Data-Viz-using-Matplotlib-and-Seaborn)<br>
 [Covid Dashboard with PowerBI](#Covid-Dashboard-with-PowerBI)<br>
 [Web scraping and visualizations](#Web-scraping-and-visualizations)<br>
