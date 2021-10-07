@@ -29,7 +29,7 @@
 [End-to-end Data Science Projects](#End-to-end-Data-Science-Projects) <br>
 [Pet Projects](#Pet-Projects) <br>
 <!-- ABOUT Section Ends -->
-___
+
 <!-- FEATURED PROJECTS Section Starts -->
 
 <!-- Add your details -->
