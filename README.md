@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/shengjunang/">
+      <img
+        src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+        alt="LinkedIn"
+      />
+    </a>
 <!--
 **AngShengJun/AngShengJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
