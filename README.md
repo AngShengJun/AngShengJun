@@ -115,7 +115,7 @@ Metrics and approaches towards mitigating multi-collinearity for Linear Regressi
 
 
 <!-- FEATURED PROJECTS Section Ends -->
-
+Metrics features under trial phase; pending further review and updates
 ![Metrics](https://github.com/AngShengJun/AngShengJun/blob/main/github-metrics.svg)
   
 <!--
