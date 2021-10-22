@@ -61,6 +61,7 @@ Business problem formulation, Hypothesis generation, data augmentation using Fou
 
 ### Terror activity classifier
 Classification of terror activity from text-based intelligence. Conducted visualization of global terror incidents for trend analysis. End-to-end ML with deployment to Heroku. Explored Topic Modeling and Linear Discriminant Analysis for model improvements.
+
 ![alt text](https://raw.githubusercontent.com/AngShengJun/dsicapstone/master/misc/9.jpg)
 
 [Click here to view blog](https://towardsdatascience.com/text-classification-supervised-unsupervised-learning-approaches-9fd5e01a036)<br>
