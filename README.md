@@ -15,8 +15,7 @@
 ## I am ShengJun Ang
 
 - Mechanical engineer by training with ~13 years of progressive experience in project management and data analytics
-- Pursuing my interest in business analytics and data science; shifted into analytics consultancy and am currently enrolled in the BCG-RISE programme
-- Curious and likes experimentation; the pet project section is dedicated for mini side projects
+- Interest in business analytics and data science
 - Loves matcha
 
 <!-- Add link to the sections -->
